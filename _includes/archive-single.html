@@ -67,5 +67,9 @@
       <a href="{{ post.link }}"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
     {% endif %}
 
+    {% if post.imageurl %}
+      <img src={{ post.imageurl }} >
+    {% endif %}
+
   </article>
 </div>

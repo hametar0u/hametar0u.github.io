@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, University of California, Los Angeles (UCLA), 2025 (expected)
-* 3.90 GPA
+* 3.92 GPA
 * Coursework: Data Structures and Algorithms, Computer Architecture, Software Construction, Algorithms and Complexity, Operating Systems, Neural Networks and Deep Learning, Linear Algebra (Honors)
 
 Work experience
@@ -29,6 +29,8 @@ Work experience
   
 Research
 ======
+* Apr 2023 - Present: UCLA PlusLab
+  * Apply various NLP tasks to zero-shot cross-lingual settings.
 * May 2022 - Present: Quantum Ethics Project
   * Assess the trainability of Variational Quantum Algorithms and rank these algorithms by immediate social impact and compatibility with
 intermediate scale noisy devices.
