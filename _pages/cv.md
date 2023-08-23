@@ -12,11 +12,16 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, University of California, Los Angeles (UCLA), 2025 (expected)
-* 3.92 GPA
-* Coursework: Data Structures and Algorithms, Computer Architecture, Software Construction, Algorithms and Complexity, Operating Systems, Neural Networks and Deep Learning, Linear Algebra (Honors)
+* 3.94 GPA
+* Coursework: Data Structures and Algorithms, Computer Architecture, Software Construction, Algorithms and Complexity, Operating Systems, Neural Networks and Deep Learning, Linear Algebra (Honors), Formal Languages and Automata
 
 Work experience
 ======
+* Summer 2023: SWE / ML Ops Intern, AWS
+  * Architected flexible ingestion workflow writing over 50000 records per week to a NoSQL database at 8 abstraction levels.
+  * Wrote batch processing job for millions of records per day with AWS Glue and PySpark.
+  * Followed test-driven development to deliver production-ready code, leveraging PyTest for unit testing and JUnit for integration testing, and proposing and implementing a comprehensive suite of alarms and metrics.
+
 * Summer 2022: Data Automation Intern, II-VI
   * Rewrote SQL query generating summary data table for Epitaxial layer growth using incremental loading and indexing, improving query time by 10000%.
   * Upgrade 2 legacy data collection user interfaces from asp.net to Flask-React tech stack, saving 2 hours per week and reducing IT team burden.
@@ -30,7 +35,8 @@ Work experience
 Research
 ======
 * Apr 2023 - Present: UCLA PlusLab
-  * Apply various NLP tasks to zero-shot cross-lingual settings.
+  * Extend epidemic event extraction to low-resource multilingual settings.
+  * Create curated multilingual datasets for target languages through manual annotation and MTurk crowdsourcing.
 * May 2022 - Present: Quantum Ethics Project
   * Assess the trainability of Variational Quantum Algorithms and rank these algorithms by immediate social impact and compatibility with
 intermediate scale noisy devices.
@@ -54,8 +60,8 @@ Organizations
 
 Skills
 ======
-* Languages: Python, C++, Javascript, Bash
-* Technologies/Frameworks: Pytorch, Tensorflow, Qiskit, Pennylane, Express JS, Flask, Git, Microsoft SQL Server
+* Languages: Python, C++, Javascript, Java, Bash
+* Technologies/Frameworks: Pytorch, Tensorflow, Qiskit, Pennylane, Express JS, Flask, Git, Microsoft SQL Server, AWS Cloud tools
 
 Publications
 ======
